@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails enterpriseApe: development" uuid="92f29200-4873-407a-96b8-90821410509f">
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails enterpriseApe: test" uuid="0583e29f-0791-40c5-9bfd-f702cffec88f" />
+  </component>
+</project>
